@@ -62,7 +62,7 @@ public class CrawlerMain {
 				System.out.println("爬虫运行结束！！");
 			}
 		}
-	}
+	} 
 	
 	public int crawler(String page) {
 		// 初始化返回值
